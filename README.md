@@ -7,7 +7,7 @@
 
 | Detail | Info |
 |---|---|
-| **Subject Code** | 21CS42 (CBCS 2021 Scheme) |
+| **Subject Code** | 21CS42 (CBCS 2022 Scheme) |
 | **Semester** | 4th Sem, B.E. CSE |
 | **Credits** | 3 |
 | **Contact Hours** | 3L + 0T + 0P per week |
